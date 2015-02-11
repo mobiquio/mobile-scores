@@ -1,4 +1,4 @@
-mobile-coupons
+mobile-scores
 ==============
 
-Self serve couponing system
+Mobile Golf Scoring System
